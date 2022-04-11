@@ -1,0 +1,4 @@
+class Information extends Book
+{
+	
+}

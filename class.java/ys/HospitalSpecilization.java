@@ -1,0 +1,4 @@
+enum HospitalSpecilization
+{
+	PEDIATRICS,ORTHOPEDICS,OPHTHALMOLOGY,DERMATOLOGY;
+}
