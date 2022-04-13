@@ -1,0 +1,4 @@
+class JinkePark
+{
+	boolean couplesAllowed;
+}
