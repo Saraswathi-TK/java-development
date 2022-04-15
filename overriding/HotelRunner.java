@@ -11,7 +11,10 @@ class HotelRunner
 	 Hotel hotel=new Hotel();
 	 hotel.name="gogul hotel";
 	 hotel.owner="Gogul";
-	 hotel.since=3;
+	 hotel.since=1997;
+	 System.out.println(hotel.name);
+	 System.out.println(hotel.owner);
+	 System.out.println(hotel.since);
 	  
 	hotel.serveFood();
 	 
@@ -19,9 +22,9 @@ class HotelRunner
 	 
 	TajHotel hotel1=new TajHotel();
 	
-	hotel1.serveFood();
+   hotel1.serveFood();
 	
-	 hotel1.deliverFood();
+	hotel1.deliverFood();
  }
 	
 }
